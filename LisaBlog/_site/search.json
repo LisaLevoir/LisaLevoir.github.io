@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Biostatistics MS student at Vanderbilt University (graduating May 2025). I’m interested in using my skills to make the world a better place. It’s a lofty ideal, but I’m doing my best :) Right now, this means I do a lot of studying and research to build my skill set.\nIn the past, I worked in cutting edge research labs on topics related to immunology and virology. I’ve always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it’s pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!\nI suppose statistical research can also start to seem like magic, but the hope is that we can gather useful insights from limited resources. Whether there are only so many available study volunteers, research funds, or bandwidth available in a lab or clinical setting, or (name your limiting factor), we hope to make the most use out of what we have.\nMaking the most out of what we have is motivating to me. Since this is my “about me” page and I can say whatever I want, I think it’s also important to recognize the limits of math, medicine, and science. I strive to focus on the people involved. We should value who is contributing to our research and who is performing, communicating, and implementing research findings.\nThank you for visiting my website. If you’d like to reach out, please find my university email or message me on LinkedIn. I’m happy to answer questions about my academic journey and share advice with students and young professionals."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lisa Levoir",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cvpage.html",
+    "href": "cvpage.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF file."
+  }
+]
