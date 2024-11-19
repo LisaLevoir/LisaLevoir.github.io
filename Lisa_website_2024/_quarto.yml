@@ -2,18 +2,23 @@ project:
   type: website
 
 website:
-  title: "Lisa_website_2024"
+  title: "Lisa Levoir"
+  description: "This is Lisa Levoir's website."
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: About Me
+        href: about.qmd
+      - text: CV
+        href: cvpage.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/llevoir/
+      - icon: github
+        href: https://github.com/LisaLevoir
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
 
 editor: visual
 

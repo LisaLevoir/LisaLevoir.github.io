@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "About Me"
+image: LisaLevoirphoto.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/llevoir/
+    - icon: github
+      text: Github
+      href: https://github.com/LisaLevoir
 ---
 
-About this site
+I am a Biostatistics MS student at Vanderbilt University (graduating May 2025). I'm interested in using my skills to make the world a better place. It's a lofty ideal, but I'm doing my best :) Right now, this means I do a lot of studying and research to build my skill set.
+
+In the past, I worked in cutting edge research labs on topics related to immunology and virology. I've always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it's pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!
+
+I suppose statistical research can also start to seem like magic, but the hope is that we can gather useful insights from limited resources. Whether there are only so many available study volunteers, research funds, or bandwidth available in a lab or clinical setting, or (name your limiting factor), we hope to make the most use out of what we have.
+
+Making the most out of what we have is motivating to me. Since this is my "about me" page and I can say whatever I want, I think it's also important to recognize the limits of math, medicine, and science. I strive to focus on the people involved. We should value who is contributing to our research and who is performing, communicating, and implementing research findings.
+
+Thank you for visiting my website. If you'd like to reach out, please find my university email or message me on LinkedIn. I'm happy to answer questions about my academic journey and share advice with students and young professionals.

@@ -1,5 +1,13 @@
 ---
-title: "Lisa_website_2024"
+title: "Lisa website 2024"
+listing:
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
 This is a Quarto website.
