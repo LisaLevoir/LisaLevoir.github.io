@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lisa website 2024",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "CV\n\n\n\n\n\nlast updated Novemeber 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,6 @@
     "href": "cvpage.html",
     "title": "CV",
     "section": "",
-    "text": "{{&lt; pdf CV_Levoir_public.pdf width=100% height=800 &gt;}}"
+    "text": "Download PDF file."
   }
 ]
