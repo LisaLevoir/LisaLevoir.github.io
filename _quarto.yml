@@ -43,8 +43,8 @@ website:
       <span class="faux-block">&#169; 2025 Lisa Levoir CC BY-SA 4.0</span>
     #center: |
      # <span class="faux-block"><a href="https://www.linkedin.com/in/llevoir/">Reach out on LinkedIn</a></span>
-  #  right: |
-   #   <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View website template on GitHub</a></span>
+    right: |
+     <span class="faux-block"><a href="https://icons8.com/icon/4IZ8RiC9K8go/star">Star</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></span>
 
 project:
   type: website

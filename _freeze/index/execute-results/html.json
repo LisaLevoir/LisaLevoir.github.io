@@ -1,0 +1,15 @@
+{
+  "hash": "c0d77b728edf2c393588d308bad20f90",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nabout:\n  template: jolla\n  id: about-block\n  image: \"img/me.png\"\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/LisaLevoir\n    - icon: linkedin\n      text: LinkedIn\n      href:  https://www.linkedin.com/in/llevoir/\n    - icon: envelope\n      text: Email\n      href: \"mailto:lisa.m.levoir@vanderbilt.edu\"\n---\n\n\n\n::: {#about-block}\n:::\n\n# Welcome! \n\nI am a Biostatistics MS student at Vanderbilt University (graduating May 2025). I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this orientation in mind helps me get up each day and contribute to the best of my ability.\n\nIn the past, I worked in cutting edge research labs on topics related to immunology and virology. I’ve always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it’s pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!\n\nStatistical research can also start to seem like magic, but the hope is that we can gather *useful insights from limited resources*. Whether there are only so many available study volunteers, research funds, or bandwidth available in a lab or clinical setting, or (name your limiting factor), we hope to make the most use out of what we have.\n\n**Making the most out of what we have is motivating to me**. Since this is my “about me” page and I can say whatever I want, I think it’s also important to recognize the limits of math, medicine, and science. I strive to focus on the people involved. We should value who is contributing to our research and who is performing, communicating, and implementing research findings.\n\nThank you for visiting my website. If you’d like to reach out, please feel free to reach out [via email](mailto:lisa.m.levoir@vanderbilt.edu) or message me on LinkedIn. I’m happy to answer questions about my academic journey and share advice with students and young professionals.\n\n\n\n```{=html}\n<div  style=\"margin: 30px; text-align: center;\">\n<a class=\"btn btn-primary\" href=\"https://www.linkedin.com/in/llevoir/\" role=\"button\" target=\"_blank\" style=\"padding: 15px 30px;\">Reach out on LinkedIn!</a>\n</div>\n```\n\n::: {.cell}\n\n```{.r .cell-code}\n# https://quarto.org/docs/publishing/github-pages.html\n# https://marvinschmitt.com/blog/website-tutorial-quarto/\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
