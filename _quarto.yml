@@ -15,8 +15,8 @@ website:
     
     # your sub-pages
     left:
-     # - text: "Projects"
-      #  href: projects/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
       #- text: "Photography"
       # href: photography/index.qmd
       - text: "CV"
