@@ -18,7 +18,7 @@ about:
 ::: {#about-block}
 :::
 
-# Welcome! 
+# Welcome!
 
 I am a Biostatistics MS student at Vanderbilt University (graduating May 2025). I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.
 
