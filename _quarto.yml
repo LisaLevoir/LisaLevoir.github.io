@@ -2,17 +2,17 @@
 
 # website settings
 website:
-  title: "Lisa Levoir"                                # Your name
-  description: "Lisa Levoir is an applied statistician"   # A brief slogan (optional)
+  title: "Lisa Levoir" # Your name
+  description: "Lisa Levoir is an applied statistician" # A brief slogan (optional)
   image: img/me.png
-  
+
   favicon: img/favicon.png
-  
+
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
     logo: img/logo.png
-    
+
     # your sub-pages
     left:
       - text: "Projects"
@@ -21,7 +21,7 @@ website:
       # href: photography/index.qmd
       - text: "CV"
         href: cv/index.qmd
-    
+
     # your social media handles
     right:
       - icon: github
@@ -30,27 +30,25 @@ website:
         href: https://www.linkedin.com/in/llevoir/
       - icon: envelope
         aria-label: email
-        href: "mailto:lisa.m.levoir@vanderbilt.edu"  
-  
-  
+        href: "mailto:lisa.m.levoir@vanderbilt.edu"
 
-# Don't touch unless you know what you are doing :) ------------
-  search: 
+  # Don't touch unless you know what you are doing :) ------------
+  search:
     location: navbar
     type: textbox
-  page-footer: 
+  page-footer:
     left: |
       <span class="faux-block">&#169; 2025 Lisa Levoir CC BY-SA 4.0</span>
     #center: |
-     # <span class="faux-block"><a href="https://www.linkedin.com/in/llevoir/">Reach out on LinkedIn</a></span>
+    # <span class="faux-block"><a href="https://www.linkedin.com/in/llevoir/">Reach out on LinkedIn</a></span>
     right: |
-     <span class="faux-block"><a href="https://icons8.com/icon/4IZ8RiC9K8go/star">Star</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></span>
+      <span class="faux-block"><a href="https://icons8.com/icon/4IZ8RiC9K8go/star">Star</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></span>
 
 project:
   type: website
   output-dir: docs
 
-  preview: 
+  preview:
     port: 22222
     browser: true
     watch-inputs: true
@@ -62,7 +60,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme: 
+    theme:
       - pulse
       - html/styles.scss
     toc: false
