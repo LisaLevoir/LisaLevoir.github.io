@@ -28,7 +28,7 @@ Statistical research can also start to seem like magic, but the hope is that we 
 
 **Making the most out of what we have is motivating to me**. Since this is my “about me” page and I can say whatever I want, I think it’s also important to recognize the limits of math, medicine, and science. I strive to focus on the people involved. We should value who is contributing to our research and who is performing, communicating, and implementing research findings.
 
-Thank you for visiting my website. If you’d like to reach out, please feel free to reach out [via email](mailto:lisa.m.levoir@vanderbilt.edu) or message me on LinkedIn. I’m happy to answer questions about my academic journey and share advice with students and young professionals.
+Thank you for visiting my website. If you’d like to reach out, please feel free to reach out [via email](mailto:lisa.m.levoir@vanderbilt.edu) or message me on LinkedIn. I’m happy to answer questions about my academic and professional journey and share advice with students and young professionals.
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">

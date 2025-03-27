@@ -8,6 +8,8 @@ resources:
   - "thesis_presentation.pdf"
 cv:
   pdf: "thesis_presentation.pdf"
+thesisdoc:
+  pdf: "thesis_doc.pdf"
 ---
 
 ## Thesis Presentation Slides
@@ -47,11 +49,25 @@ cv:
 
 ## Thesis Document
 
-This will be added by the end of March 2025.
+I'm thrilled to announce that I successfully passed my thesis presentation and document submission as of March 25th, 2025! 
+
+I am now on the job market with a graduation date of May 9th, 2025.
 
 <!-- <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/> -->
 
 <!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$thesisdoc$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download my thesis document
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$thesisdoc$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
 
 
 <!-- ```{=html} -->

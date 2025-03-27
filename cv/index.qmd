@@ -5,11 +5,13 @@ excerpt: My current CV
 execute:
   freeze: true  # never re-render during project render
 engine: knitr 
-resources:
-  - "CV_Levoir_Jan2025.pdf"
+resume:
+  pdf: "resume_Levoir_March2025.pdf"
 cv:
-  pdf: "CV_Levoir_Jan2025.pdf"
+  pdf: "cv_Levoir_website.pdf"
 ---
+
+
 
 ```{css echo=FALSE}
 .embed-container {
@@ -30,10 +32,28 @@ cv:
 }
 ```
 
+Thanks for visiting my professional documents page! To keep it short, my resume is below:
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$resume$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download my resume
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$resume$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
+
+
+
+
+If you really want all of the details including upcoming talks and my publications, here is my academic CV:
 ```{=html}
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download my current CV
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Get academic CV
   </a>
 </p>
 <div class="embed-container">
