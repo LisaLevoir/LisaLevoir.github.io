@@ -14,6 +14,9 @@ thesisdoc:
 
 ## Thesis Presentation Slides
 
+I'm thrilled to announce that I successfully passed my thesis presentation and document submission as of March 25th, 2025! 
+
+I am now on the job market with a graduation date of May 9th, 2025.
 
 ```{css echo=FALSE}
 .embed-container {
@@ -49,9 +52,7 @@ thesisdoc:
 
 ## Thesis Document
 
-I'm thrilled to announce that I successfully passed my thesis presentation and document submission as of March 25th, 2025! 
-
-I am now on the job market with a graduation date of May 9th, 2025.
+Keywords include: heterogeneous treatment effects, machine learning, simulation, cross validation, casual forests, random forests, linear regression, casual inference
 
 <!-- <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/> -->
 
