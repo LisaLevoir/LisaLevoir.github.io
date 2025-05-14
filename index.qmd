@@ -20,7 +20,9 @@ about:
 
 # Welcome!
 
-I am a Biostatistics MS student at Vanderbilt University (graduating May 2025). I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.
+I am a new graduate on the job market having completed my MS in Biostatistics at Vanderbilt University as of May 2025. 
+
+I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.
 
 In the past, I worked in cutting edge research labs on topics related to immunology and virology. I’ve always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it’s pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!
 

@@ -10,13 +10,54 @@ cv:
   pdf: "thesis_presentation.pdf"
 thesisdoc:
   pdf: "thesis_doc.pdf"
+poster:
+  pdf: "Poster_May14_SCI_done.pdf"
 ---
+
+## ACIC Poster
+
+I'll be presenting my MS thesis work as a recent graduate at the Socity for Causal Inference's American Causal Inference Conference in Detroit, MI in May 2025. Come say hello!
+
+
+I'll also be presenting at the American Statistical Association Joint Statistical Meeting (JSM) in Nashville, TN in August 2025. 
+
+```{=html}
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$poster$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$poster$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download poster
+  </a>
+```
+
+----
+
+## Thesis Document
+
+Keywords include: heterogeneous treatment effects, machine learning, simulation, cross validation, casual forests, random forests, linear regression, casual inference
+
+<!-- <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/> -->
+
+<!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$thesisdoc$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download my thesis document
+  </a>
+</p>
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$thesisdoc$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
+</div>
+```
+
 
 ## Thesis Presentation Slides
 
-I'm thrilled to announce that I successfully passed my thesis presentation and document submission as of March 25th, 2025! 
-
-I am now on the job market with a graduation date of May 9th, 2025.
+I'm thrilled to announce that I successfully passed my thesis presentation and document submission! I am now on the job market and open to opportunities in the Minneapolis/St. Paul, MN area (or remote).
 
 ```{css echo=FALSE}
 .embed-container {
@@ -47,28 +88,6 @@ I am now on the job market with a graduation date of May 9th, 2025.
   <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
 </div>
 ```
-
-----
-
-## Thesis Document
-
-Keywords include: heterogeneous treatment effects, machine learning, simulation, cross validation, casual forests, random forests, linear regression, casual inference
-
-<!-- <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/> -->
-
-<!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
-
-```{=html}
-<p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$thesisdoc$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download my thesis document
-  </a>
-</p>
-<div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$thesisdoc$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
-</div>
-```
-
 
 
 <!-- ```{=html} -->
