@@ -33,7 +33,6 @@ cv:
 ```
 
 Thanks for visiting my professional documents page! To keep it short, my resume is below:
-
 ```{=html}
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$resume$pdf`" target="_blank">
