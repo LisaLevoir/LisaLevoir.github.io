@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Curriculum vitae
+#title: Resume
 excerpt: My current resume
 execute:
   freeze: true  # never re-render during project render
