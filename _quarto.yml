@@ -19,7 +19,7 @@ website:
         href: projects/index.qmd
       #- text: "Photography"
       # href: photography/index.qmd
-      - text: "CV"
+      - text: "Resume"
         href: cv/index.qmd
 
     # your social media handles
