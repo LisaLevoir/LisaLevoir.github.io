@@ -16,11 +16,11 @@ poster:
 
 Here are some examples of my work. Other projects had deliverable that included interactive HTML reports, but that data is sensitive or confidential.
 
-## ACIC Poster
+## ACIC/JSM Poster
 
-I presented my thesis work at the Society for Causal Inference's American Causal Inference Conference in Detroit, MI in May 2025.
+I presented my thesis work at the Society for Causal Inference's American Causal Inference Conference (ACIC) in Detroit, MI in May 2025 and at the American Statistical Association's Joint Statistical Meeting (JSM) in Nashville, TN in August 2025. 
 
-I'll also be presenting at the American Statistical Association Joint Statistical Meeting (JSM) in Nashville, TN in August 2025. Reach out if you'd like to meet up!
+It was great meeting the folks who came to engage with this research on estimators for heterogeneity of treatment effect!
 
 ```{=html}
 </p>
@@ -58,7 +58,7 @@ Keywords include: heterogeneous treatment effects, machine learning, simulation,
 
 ## Thesis Presentation Slides
 
-I'm thrilled to announce that I successfully passed my thesis presentation and document submission! I am now on the job market and open to opportunities in the Minneapolis/St. Paul, MN area (in person, hybrid, or remote).
+I'm thrilled to announce that I successfully passed my thesis presentation and document submission!
 
 ```{css echo=FALSE}
 .embed-container {

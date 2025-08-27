@@ -46,7 +46,7 @@
     "href": "projects/index.html#thesis-presentation-slides",
     "title": "Projects",
     "section": "Thesis Presentation Slides",
-    "text": "Thesis Presentation Slides\nI’m thrilled to announce that I successfully passed my thesis presentation and document submission! I am now on the job market and open to opportunities in the Minneapolis/St. Paul, MN area (in person, hybrid, or remote).\n\n\n\n\n  \n     Download my slides"
+    "text": "Thesis Presentation Slides\nI’m thrilled to announce that I successfully passed my thesis presentation and document submission!\n\n\n\n\n  \n     Download my slides"
   },
   {
     "objectID": "projects/index.html#thesis-document",
@@ -67,7 +67,7 @@
     "href": "projects/index.html#acic-poster",
     "title": "Projects",
     "section": "ACIC Poster",
-    "text": "ACIC Poster\nI presented my thesis work at the Society for Causal Inference’s American Causal Inference Conference in Detroit, MI in May 2025.\nI’ll also be presenting at the American Statistical Association Joint Statistical Meeting (JSM) in Nashville, TN in August 2025. Reach out if you’d like to meet up!\n\n\n  \n\n\n\n  \n     Download poster"
+    "text": "ACIC Poster\nI presented my thesis work at the Society for Causal Inference’s American Causal Inference Conference in Detroit, MI in May 2025 and at the American Statistical Association’s Joint Statistical Meeting (JSM) in Nashville, TN in August 2025.\nIt was great meeting the folks who came to engage with this research on estimators for heterogeneity of treatment effect!\n\n\n  \n\n\n\n  \n     Download poster"
   },
   {
     "objectID": "index.html#about-me",
@@ -75,5 +75,12 @@
     "title": "Welcome!",
     "section": "About me",
     "text": "About me\nI’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.\nIn the past, I worked in cutting edge research labs on topics related to immunology and virology. I’ve always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it’s pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!\nStatistical research can also start to seem like magic, but the hope is that we can gather useful insights from limited resources. Whether there are only so many available study volunteers, research funds, or bandwidth available in a lab or clinical setting, or (name your limiting factor), we hope to make the most use out of what we have.\nMaking the most out of what we have is motivating to me. Since this is my “about me” page and I can say whatever I want, I think it’s also important to recognize the limits of math, medicine, and science. I strive to focus on the people involved. We should value who is contributing to our research and who is performing, communicating, and implementing research findings.\n\nLet’s connect\nThank you for visiting my website. If you’d like to reach out, please feel free to reach out via email or message me on LinkedIn. I’m happy to answer questions about my academic and professional journey and share advice with students and young professionals.\n\nReach out on LinkedIn!"
+  },
+  {
+    "objectID": "projects/index.html#acicjsm-poster",
+    "href": "projects/index.html#acicjsm-poster",
+    "title": "Projects",
+    "section": "ACIC/JSM Poster",
+    "text": "ACIC/JSM Poster\nI presented my thesis work at the Society for Causal Inference’s American Causal Inference Conference (ACIC) in Detroit, MI in May 2025 and at the American Statistical Association’s Joint Statistical Meeting (JSM) in Nashville, TN in August 2025.\nIt was great meeting the folks who came to engage with this research on estimators for heterogeneity of treatment effect!\n\n\n  \n\n\n\n  \n     Download poster"
   }
 ]
