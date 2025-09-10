@@ -6,7 +6,7 @@ execute:
   freeze: true  # never re-render during project render
 engine: knitr 
 resume:
-  pdf: "resume_Levoir_Aug2025.pdf"
+  pdf: "resume_Levoir_Sept2025.pdf"
 cv:
   pdf: "cv_Levoir_website.pdf"
 ---
