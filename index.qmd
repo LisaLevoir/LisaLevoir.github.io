@@ -20,11 +20,11 @@ about:
 
 # Welcome!
 
-I completed my MS in Biostatistics at Vanderbilt University as of May 2025. I'm open to full time or consulting roles located in the Minneapolis/St. Paul metro area (in person, hybrid, or remote).
+You have found to my home on the web. 
 
 ## About me
 
-I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.
+I am a professional biostatistician located in the Twin Cities. I’m interested in using my skills to make the world a better place. While this is a lofty goal, keeping this direction in mind helps me get up each day and contribute to the best of my ability.
 
 In the past, I worked in cutting edge research labs on topics related to immunology and virology. I’ve always found our biology fascinating - if you stop and think about all of the processes that are working all day, every day, that keep us running generally without even having to think about it, it’s pretty amazing. Sometimes when I did molecular biology experiments like setting up a PCR it would feel like performing witchcraft by pipetting small amounts of invisible liquid, warming them up in a very particular way, and then visualizing a ladder band in a gel I poured. Assuredly, it is not actually witchcraft!
 
@@ -34,7 +34,7 @@ Statistical research can also start to seem like magic, but the hope is that we 
 
 ### Let's connect
 
-Thank you for visiting my website. If you’d like to reach out, please feel free to reach out [via email](mailto:lisa.m.levoir@vanderbilt.edu) or message me on LinkedIn. I’m happy to answer questions about my academic and professional journey and share advice with students and young professionals.
+Thank you for visiting my website. If you’d like to reach out, please feel free to reach out on LinkedIn. I’m happy to answer questions about my academic and professional journey and share advice with students and young professionals.
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
